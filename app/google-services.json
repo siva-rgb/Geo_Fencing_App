@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "500507921178",
+    "firebase_url": "https://uber-app-b6bb6.firebaseio.com",
+    "project_id": "uber-app-b6bb6",
+    "storage_bucket": "uber-app-b6bb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500507921178:android:8c2efa7c2342f73616baa3",
+        "android_client_info": {
+          "package_name": "com.example.geofencingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500507921178-o0sp5b2gbqnphl7aoepb3q768ekkmef3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geofencingapp",
+            "certificate_hash": "cc5850eabbe78dd8b09d31bcefb45209f694ade1"
+          }
+        },
+        {
+          "client_id": "500507921178-u6v3tshuvr3k9v4hpn5c0r0acsqbkr1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3-iALKf0PHpfmATjy-78TFJer-bb1e_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500507921178-u6v3tshuvr3k9v4hpn5c0r0acsqbkr1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
